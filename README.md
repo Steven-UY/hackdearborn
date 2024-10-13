@@ -9,7 +9,7 @@ This is the hackdearborn project that I'm working on hopefully I make some reaso
 - App
     - Contains the app's navigation, which is file based.
 - Components
- -  Contains React Native components
+    - Contains React Native components
 
 
 
