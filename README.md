@@ -7,7 +7,7 @@ This is the hackdearborn project that I'm working on hopefully I make some reaso
 ### File Structure 
 
 - App
- -Contains the app's navigation, which is file based.
+ - Contains the app's navigation, which is file based.
 - Components
  -  Contains React Native components
 
